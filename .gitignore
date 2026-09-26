@@ -1,0 +1,9 @@
+# KiCad local history and recovery backups
+**/.history/
+**/_restore_backup_*/
+
+# KiCad lock files
+**/~*.lck
+
+# KiCad local project/session settings
+**/*.kicad_prl
